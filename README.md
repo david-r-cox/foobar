@@ -1,2 +1,2 @@
 # foobar
-Some selected solutions to Google's Foobar challenge
+Some of my solutions to Google's Foobar challenge.
